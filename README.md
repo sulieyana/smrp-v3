@@ -3,5 +3,5 @@ npm install -g @angular/cli
 npm install
 ng serve --open
 
-tempplate reference
+template reference
 https://www.creative-tim.com/product/material-dashboard-angular2
